@@ -42,7 +42,7 @@ The HelloToast App is an Android application built using Java and Android Studio
 
 - Clone the repository:
 ```bash
-  git clone <repository-url>
+  git clone <https://github.com/SowgataB/Android_Studio_Project.git>
 ```
 - Open the project in Android Studio.
 - Connect an emulator or device and click Run.
